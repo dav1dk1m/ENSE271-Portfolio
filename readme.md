@@ -5,4 +5,4 @@ DongYun (David) Kim
 
 ctrl + shit + ` //For Termial, Output, Debug Console
 
-"commit on 'main'
+Type " commit on 'main' " to commit on Github
