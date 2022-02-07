@@ -1,3 +1,0 @@
-ENSE271 LAB
-
-LAB1
