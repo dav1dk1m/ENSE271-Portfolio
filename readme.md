@@ -23,7 +23,7 @@ Type " commit on 'main' " to commit on Github
 3. Commit
 4. Sync to GitHub
 
-[Lab1 Folder] (https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/lab1)
+[Lab1 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/lab1)
 
 
 ### Lab 2: Asset Inventories and Site-Maps
