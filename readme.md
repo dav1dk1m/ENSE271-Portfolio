@@ -29,7 +29,7 @@ Type " commit on 'main' " to commit on Github
 ### Lab 2: Asset Inventories and Site-Maps
 
 
-
+[Lab2 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab2)
 
 ### Languages and Tools:
 
