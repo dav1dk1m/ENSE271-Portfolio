@@ -7,5 +7,6 @@ I actually did find some functions or erros that needs to update in the website 
 ***
 ### Files:
 
-[Site-Map](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/sitemap_DongYun%20Kim.png)
-[Asset Inventories](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/asset-inventory_Gong%20Cha.xlsx)
+* [Site-Map](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/sitemap_DongYun%20Kim.png)
+
+* [Asset Inventories](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/asset-inventory_Gong%20Cha.xlsx)
