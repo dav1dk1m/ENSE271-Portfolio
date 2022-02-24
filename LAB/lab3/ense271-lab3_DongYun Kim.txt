@@ -1,0 +1,7 @@
+ENSE271 LAB 3: High-Fi Wireframes with Adobe XD
+
+Name: DongYun Kim
+Student ID: 200405213
+
+From the website Frontend Mentor, I chose Time Tracking dashboard (https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw)
+to create a high fidelity wireframe of it in Adboe XD.
