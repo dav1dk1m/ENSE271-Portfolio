@@ -41,3 +41,6 @@ Type " commit on 'main' " to commit on Github
 
 [Lab2 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab2)
 
+### Lab 3: High-Fi Wireframes with Adobe XD
+
+[Lab3 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab3)
