@@ -12,8 +12,8 @@ Your assignment is to choose a real-world location and create a virtual tour in 
 
 Please include some images from the exhibits. Many museums license their images in the creative commons, but even if not, it is okay to use them in this project as it is for educational / non-commercial purposes.
 
+***
 For my assignment, I chose MoMA (The Museum of Modern Art) and they provided few virtual exhibitions including Cezanne Drawing, Broken Nature and Engineer, Agitator, Constructor. I included some of pictures from that exhibits and implemented on the Hi-Fi Prototype. I used some of feautures from lab4 excercise including Automatic carousel, image carousel with arrows and progress buttons and lightboxes for the images of Broken Nature.
-
 
 
 ***
