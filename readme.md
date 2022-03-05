@@ -51,3 +51,8 @@ Type " commit on 'main' " to commit on Github
 * Do a complete example of a high fidelity (hi-fi) wireframe of a website
 
 [Lab3 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab3)
+
+### [Lab 4](https://adamtilson.github.io/labs/ense-271/lab-4/): Hi-Fi Prototypes with Adobe XD
+- Using the Adobe XD Prototyping workflow to add some interactivity to our website mockups
+
+[Lab4 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab4)
