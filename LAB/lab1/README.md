@@ -6,6 +6,6 @@ For my User Story Mapping (USM) of Planning my semester, I have tried variety of
 - I also added anootations on cards for example I added 'idea' on Make To-Do List since it was my idea to support doing my assignments
 
 ### Files:
-[User Story Mapping](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab1/ENSE271%20LAB1_USM_200405213.png)
+[User Story Mapping](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab1/USM)
 
 
