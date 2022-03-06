@@ -19,5 +19,5 @@ For my assignment, I chose MoMA (The Museum of Modern Art) and they provided few
 ***
 ### Files:
 
-* [Hi-Fi Prototype](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/sitemap_DongYun%20Kim.png)
+* [Hi-Fi Prototype XD File](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/sitemap_DongYun%20Kim.png)
 
