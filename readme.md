@@ -56,3 +56,9 @@ Type " commit on 'main' " to commit on Github
 - Using the Adobe XD Prototyping workflow to add some interactivity to our website mockups
 
 [Lab4 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab4)
+
+### [Lab 5](https://adamtilson.github.io/labs/ense-271/lab-5/): Wordpress Themes and Site-building
+- Getting familiar with the WordPress environment
+- Exploring contents (Static pages, Dynamic blogs, and menus)
+
+[Lab5 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab5)
