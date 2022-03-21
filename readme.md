@@ -57,8 +57,14 @@ Type " commit on 'main' " to commit on Github
 
 [Lab4 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab4)
 
-### [Lab 5](https://adamtilson.github.io/labs/ense-271/lab-5/): Wordpress Themes and Site-building
+### [Lab 5](https://adamtilson.github.io/labs/ense-271/lab-5/): Wordpress Environment Setup with Local
 - Getting familiar with the WordPress environment
 - Exploring contents (Static pages, Dynamic blogs, and menus)
 
 [Lab5 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab5)
+
+### [Lab 6](https://adamtilson.github.io/labs/ense-271/lab-6/#60assignment): Wordpress Themes and Site-building
+- Design a website with good designs and People-centred Design
+- Explore more on WordPress blocks and plugins
+
+[Lab6 Folder](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab6)
