@@ -11,5 +11,5 @@
 ***
 ### Files:
 
-* [Screenshots](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab2/sitemap_DongYun%20Kim.png)
+* [Screenshots](https://github.com/dav1dk1m/ENSE271-Portfolio/tree/main/LAB/lab5/Screenshots)
 
