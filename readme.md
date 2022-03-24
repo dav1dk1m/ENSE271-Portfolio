@@ -25,7 +25,7 @@ Visual Studio | GitHub |  Git  |  WordPress  |  User-Story Map
 ***
 ### [Lab 1](https://adamtilson.github.io/labs/ense-271/lab-1/): Github and USM introduction
 
-**Instrctions on GitHub and Git:**
+**Instructions on GitHub and Git:**
 
 ctrl + shit + ` //For Termial, Output, Debug Console
 
