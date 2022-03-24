@@ -17,7 +17,7 @@ Visual Studio | GitHub |  Git  |  WordPress  |  User-Story Map
 <img align ="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="WordPress" width="26px" src="https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/WordPress_blue_logo.svg.png" />
-<img align="left" alt="Adobe XD" width="26px" src= "https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/Adobe_XD_CC_icon.svg.png" />
+<img align="left" alt="Adobe XD" width="26px" src= "https://user-images.githubusercontent.com/36246244/159821616-a4ac96a8-2051-4f25-9ea0-0fd08713d6cf.png" />
 
 <br>
 <br>
