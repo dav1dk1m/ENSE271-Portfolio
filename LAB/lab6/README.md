@@ -12,4 +12,8 @@
 ### Files:
 
 * [Backup of my site from local](https://github.com/dav1dk1m/ENSE271-Portfolio/blob/main/LAB/lab6/ENSE271DongYunKim.zip)
-
+***
+### Preview of my WordPress:
+![Home Preview](https://user-images.githubusercontent.com/36246244/159822401-de0cb1a3-c792-4ad4-bc42-46a10efcb424.png)
+![Page1](https://user-images.githubusercontent.com/36246244/159822409-d8d68db2-af57-44ff-96e3-e338b479ba1f.png)
+![Blog Page2](https://user-images.githubusercontent.com/36246244/159822412-ab1939be-7a93-4bbb-8dcf-c437a1b852c2.png)
