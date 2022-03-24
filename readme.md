@@ -4,7 +4,7 @@ Hi, My name is DongYun (David) Kim. I am currently in my second year of Software
 
 <br>
 
-Visual Studio | GitHub |  Git  |  WordPress  |  User-Story Map 
+Visual Studio | GitHub |  Git  | Adobe XD  | WordPress  |  User-Story Map 
 
 <img src="https://github.com/dav1dk1m/dav1dk1m/blob/main/Image.png" width="30%" align="right">
 
